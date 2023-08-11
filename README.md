@@ -1,14 +1,14 @@
 # vicem-init
-git-home
+
+** software developer / visual artist **
+
+Python, OOP, data structures and algorithms, Linux, blockchain, Ethereum, Solidity, JS, React
+
 
 <p align="left">
       <a href="https://cargocollective.com/vicentemacellari">
          <img alt="banner" title="art-site" src="https://payload.cargocollective.com/1/11/369730/10061305/casa-en-llamas---aguafuerte-2016_o.jpg"/></a>
 </p>
-
-** software developer / visual artist **
-
-Python, OOP, data structures and algorithms, Linux, blockchain, Ethereum, Solidity, JS, React
 
 other interests:
 pure data, cellular automata, networks - wireshark, 
