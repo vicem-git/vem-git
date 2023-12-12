@@ -1,4 +1,4 @@
-# vicem-init
+# vem-init
 
 ** software developer / visual artist **
 
